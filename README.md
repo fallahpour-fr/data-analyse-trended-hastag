@@ -1,4 +1,4 @@
-# Hashtag-MahsaAmini-Data-Analyst
+# Trended-Hashtag-Data-Analyst
 
 Analyzed data of trended hashtag on Twitter :
 
